@@ -1,0 +1,9 @@
+{
+    "name": "node-github-actions-demo",
+    "version": "1.0.0",
+    "description": "GitHub Actions CI practical",
+    "main": "app.js",
+    "scripts": {
+        "test": "node --test"
+    }
+}
